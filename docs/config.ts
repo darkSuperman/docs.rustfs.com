@@ -28,7 +28,7 @@ export default defineAdditionalConfig({
 
     footer: {
       message: 'Released under the Apache License 2.0.',
-      copyright: 'Copyright © 2025 RustFS',
+      copyright: 'Copyright © 2026 RustFS',
     },
   },
 });
